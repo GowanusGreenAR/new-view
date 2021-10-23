@@ -14,7 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefabPathList:
   - Assets/Scenes/StylyTest.unity
+<<<<<<< HEAD
   - Assets/Scenes/SampleScene.unity
   guidList:
   - df584c24-035e-4e4d-a821-cfecf9c99a5e
   - facd3bd3-23d4-4683-a79f-7b032bcd6c60
+=======
+  guidList:
+  - 996c7590-934c-4c06-b1e2-a16523c1985a
+>>>>>>> main
