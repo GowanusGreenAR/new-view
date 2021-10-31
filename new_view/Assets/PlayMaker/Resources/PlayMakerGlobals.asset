@@ -31,4 +31,5 @@ MonoBehaviour:
     categories:
     - 
     variableCategoryIDs: 
-  events: []
+  events:
+  - CHECK_CAMERA_NEXT
