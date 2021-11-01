@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Shootable
   layers:
   - Default
   - TransparentFX
@@ -13,6 +14,9 @@ TagManager:
   - UI
   - 
   - 
+  - Lighting
+  - Ground
+  - Postprocessing
   - 
   - 
   - 
@@ -34,10 +38,10 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - SUITE.STYLY.CC.USE_CAPTURE
   m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
